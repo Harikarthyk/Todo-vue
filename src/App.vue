@@ -7,13 +7,13 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+// import HelloWorld from './components/HelloWorld.vue';
 import AppHeader from './components/AppHeader.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    // HelloWorld,
     AppHeader
   }
 }
