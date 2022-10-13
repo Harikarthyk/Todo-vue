@@ -1,7 +1,8 @@
 <template>
   <div>
     <AppHeader title="Your Todo list" />
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div></div>
+    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
   </div>
 </template>
 
